@@ -1,4 +1,4 @@
-![Data Used](https://user-images.githubusercontent.com/68889070/123813527-9e18db80-d912-11eb-8271-597a7f0f43c6.png)
+
 # Stock-Price-Predictor
 
 ## Introduction:
